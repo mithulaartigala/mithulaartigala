@@ -67,7 +67,7 @@ Uses local reasoning models to do agentic coding inspired by OpenCode.
 <h2>Socials</h2>
 
 <p>
-<b>GitHub:</b> Bruh... You are LITERALLY HERE!<br>
+<b>GitHub:</b> [GitHub](https://github.com/mithulaartigala/)<br>
 <b>Hugging Face:</b> <a href="#">QyrouNet-AI</a><br>
 <b>LinkedIn:</b> <a href="#">Mithula</a>
 </p>
